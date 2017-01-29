@@ -1,0 +1,13 @@
+{
+  "name": "chat-bot-node",
+  "version": "0.0.0",
+  "description": "chatBotNode",
+  "main": "server.js",
+  "author": {
+    "name": "dinesh"
+  },
+  "dependencies": {
+    "restify": "^4.3.0",
+    "botbuilder": "^3.5.4"
+  }
+}
